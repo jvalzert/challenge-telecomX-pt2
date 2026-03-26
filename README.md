@@ -7,5 +7,6 @@ Determinación de métricas clave en una base de datos de clientes usando Machin
 
 ## Escenario
 
-El presente proyecto es precedido por lo obtenido en el proyecto [**Telecom X, parte 1: Análisis Exploratorio**](https://github.com/jvalzert/challenge-telecomX-pt1).
+El presente proyecto es precedido por los resultados obtenidos en la parte anterior, [**Telecom X, parte 1: Análisis Exploratorio**](https://github.com/jvalzert/challenge-telecomX-pt1).
 
+Por motivos personales, he decidido borrar el contenido de este proyecto. Me disculpo por cualquier inconveniente.
